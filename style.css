@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+body {
+    background-color: #141414;
+}
+
+.card {
+    background-color: #1f1f1f;
+}
+
+.card h1 {
+    color: #fff;
+    font-family: 'Inter';
+}
+
+.card h2 {
+    color: #c5f82a;
+    font-family: 'Inter';
+}
+
+.card h3 {
+    color: #fff;
+    font-family: 'Inter';
+}
+
+#GitHub.card {
+    background-color: #333333;
+    color: #fff;
+    font-family: 'Inter';
+    font-weight: 600;
+    max-width: 200px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#Frontend.card {
+    background-color: #333333;
+    color: #fff;
+    font-family: 'Inter';
+    font-weight: 600;
+    max-width: 200px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#LinkedIn.card {
+    background-color: #333333;
+    color: #fff;
+    font-family: 'Inter';
+    font-weight: 600;
+    max-width: 200px; 
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#Twitter.card {
+    background-color: #333333;
+    color: #fff;
+    font-family: 'Inter';
+    font-weight: 600;
+    max-width: 200px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#Instagram.card {
+    background-color: #333333;
+    color: #fff;
+    font-family: 'Inter';
+    font-weight: 600;
+    max-width: 200px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
