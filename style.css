@@ -4,78 +4,71 @@
 
 body {
     background-color: #141414;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .card {
     background-color: #1f1f1f;
+    max-width: 300px;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+}
+
+.card img {
+    display: block;
+    max-width: 30%;
+    max-height: 30%;
+    border-radius: 100px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .card h1 {
     color: #fff;
     font-family: 'Inter';
+    font-size: 24px;
+    font-weight: 600;
 }
 
 .card h2 {
     color: #c5f82a;
     font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 700;
 }
 
 .card h3 {
-    color: #fff;
+    color: #b1b1b1;
     font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    padding: 15px;
 }
 
-#GitHub.card {
+button {
     background-color: #333333;
     color: #fff;
     font-family: 'Inter';
     font-weight: 600;
-    max-width: 200px;
+    font-size: 14px;
+    width: 300px;
     text-align: center;
     padding: 15px;
-    border-radius: 10px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    margin: 8px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-#Frontend.card {
-    background-color: #333333;
-    color: #fff;
-    font-family: 'Inter';
-    font-weight: 600;
-    max-width: 200px;
-    text-align: center;
-    padding: 15px;
-    border-radius: 10px;
-}
-
-#LinkedIn.card {
-    background-color: #333333;
-    color: #fff;
-    font-family: 'Inter';
-    font-weight: 600;
-    max-width: 200px; 
-    text-align: center;
-    padding: 15px;
-    border-radius: 10px;
-}
-
-#Twitter.card {
-    background-color: #333333;
-    color: #fff;
-    font-family: 'Inter';
-    font-weight: 600;
-    max-width: 200px;
-    text-align: center;
-    padding: 15px;
-    border-radius: 10px;
-}
-
-#Instagram.card {
-    background-color: #333333;
-    color: #fff;
-    font-family: 'Inter';
-    font-weight: 600;
-    max-width: 200px;
-    text-align: center;
-    padding: 15px;
-    border-radius: 10px;
+button:hover {
+    background-color: #4e4e4e;
 }
