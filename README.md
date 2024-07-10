@@ -21,7 +21,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [FrontEnd Mentor](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/6686b1cdadab3440da5e7fe8/challenge/start)
 - Live Site URL: [GitHub Pages](https://originalmistake.github.io/sociallinksprofile-repo/)
 
 ## My process
@@ -52,7 +51,7 @@ button:hover {
 ### Useful resources
 
 - [W3Schools](https://www.w3schools.com/css/css3_buttons.asp#:~:text=Hoverable%20Buttons,Try%20it%20Yourself%20%C2%BB) - This helped me make hoverable buttons.
-- [W3Schools](https://www.w3schools.com/howto/howto_css_image_center.asp#:~:text=Step%202)%20Add,50%25%3B%0A%7D) - This helped me whilst I was struggling to center the image.
+- [W3Schools](https://www.w3schools.com/howto/howto_css_image_center.asp#:~:text=Step%202) - This helped me whilst I was struggling to center the image.
 
 ## Author
 
